@@ -35,7 +35,7 @@ body {
   left: 50%;
   transform: translate(-50%, -50%);
   display: flex;
-  width: 900px;
+  width: 920px;
   height: 480px;
   background: rgba(0, 0, 0, 0.85);
   border-radius: 12px;
@@ -206,10 +206,11 @@ body {
 }
 
 .members-sidebar {
-  width: 256px;
+  width: 180px;
+  flex-shrink: 0;
   display: flex;
   flex-direction: column;
-  gap: 16px;
+  gap: 12px;
 }
 
 .table-container {
