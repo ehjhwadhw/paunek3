@@ -35,8 +35,8 @@ body {
   left: 50%;
   transform: translate(-50%, -50%);
   display: flex;
-  width: 600px;
-  height: 400px;
+  width: 900px;
+  height: 480px;
   background: rgba(0, 0, 0, 0.85);
   border-radius: 12px;
   overflow: hidden;
